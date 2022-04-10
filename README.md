@@ -1,4 +1,4 @@
-### Hi there aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa👋
+### Hi there 👋
 
 <!--
 **Rayleigh761/Rayleigh761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
